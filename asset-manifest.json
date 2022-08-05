@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ikea_react/static/css/main.b741e5b7.css",
+    "main.js": "/ikea_react/static/js/main.2d3013eb.js",
+    "static/js/787.dda66dd3.chunk.js": "/ikea_react/static/js/787.dda66dd3.chunk.js",
+    "index.html": "/ikea_react/index.html",
+    "main.b741e5b7.css.map": "/ikea_react/static/css/main.b741e5b7.css.map",
+    "main.2d3013eb.js.map": "/ikea_react/static/js/main.2d3013eb.js.map",
+    "787.dda66dd3.chunk.js.map": "/ikea_react/static/js/787.dda66dd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b741e5b7.css",
+    "static/js/main.2d3013eb.js"
+  ]
+}
