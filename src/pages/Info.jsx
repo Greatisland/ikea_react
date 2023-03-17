@@ -34,7 +34,7 @@ export default function Info(){
     <>
       <InfoSection>
         <div className="text_area">
-          <h2 onClick={()=>{alert('sex')}}>매장 안내</h2>
+          <h2>매장 안내</h2>
           <p className="sub">
             뜻밖의 즐거움이 가득한 곳, IKEA
           </p>
